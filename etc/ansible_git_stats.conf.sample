@@ -1,0 +1,17 @@
+[DEFAULT]
+
+#
+# From ansible_git_stats
+#
+
+# Category to search to (issue/pull_request) (string value)
+#category = issue
+
+# repository to use. (string value)
+#repo = ansible-collections/junipernetworks.junos
+
+# github token to use. (string value)
+#gh_token = <None>
+
+# Log file to use (string value)
+#log_file_path = /tmp/ansible_git_stats.log
